@@ -26,11 +26,11 @@ Sempre em busca do conhecimento, desvendando os mistérios da tecnologia e trans
 ##
 
 <div align="center">
-  <a href="https://github.com/yljeferson">
-    <img width="400em" height="180em" src="https://github-stats-extended.vercel.app/api?username=jeferson-kazzo&show_icons=true&include_all_commits=true&custom_title=Estatisticas&locale=pt-br&title_color=7957d5&text_color=539bf5&icon_color=ff3860&bg_color=0000&hide_border=true"/>
+  <a href="https://github.com/jeferson-kazzo">
+    <img width="400em" height="180em" src="./profile/stats.svg"/>
   </a>
 
-  <a href="https://github.com/yljeferson">
-    <img width="400em" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeferson-kazzo&layout=compact&hide_title=true&locale=pt-br&text_color=1d87da&bg_color=0000&hide_border=true"/>
+  <a href="https://github.com/jeferson-kazzo">
+    <img width="400em" height="180em" src="./profile/top-langs.svg"/>
   </a>
 </div>
